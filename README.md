@@ -21,14 +21,24 @@
   <sub>[ pronounced like <i>jay-da</i> ]</sub>
 </div>
 
-### :woman_technologist: About Me :
+### 👩‍💻 About Me :
 I am a fresh graduate **Game Developer** with a Software Engineering degree.
 
-- 🔭 I’m currently working on getting my Unity Creative Core badge :point_right: [![Unity Badge](https://img.shields.io/badge/CreativeCore-black?style=flat&logo=unity&logoColor=white)](https://learn.unity.com/pathway/creative-core)
+- 🔭 I’m currently working on getting my Unity Creative Core badge 👉 [![Unity Badge](https://img.shields.io/badge/CreativeCore-black?style=flat&logo=unity&logoColor=white)](https://learn.unity.com/pathway/creative-core)
 - 🌱 I try to further improve myself in Code Optimization with every project I take.
-- :sparkling_heart: My current favorite: Observer Design Pattern. I'm into Events & Delegates lately. 
-- :v: I did Double Major and have a second degree in Management Engineering.
-- 📫 How to reach me: <a href="mailto:ceyda.sevilmis@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-blue?style=flat&logo=MicrosoftOutlook&logoColor=white"></a>
+- 💖 My current favorite: Observer Design Pattern. I'm into Events & Delegates lately. 
+- ✌️ I did Double Major and have a second degree in Management Engineering.
+- 📫 How to reach me: <a href="mailto:ceyda.sevilmis@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+
+### :rocket: Projects:
+You can find their gameplay videos and even play them through the links on their respective README pages.
+- 🌲 [Tree Picker](https://github.com/Cey-S/Programming-Theory-Repo "Programming-Theory-Repo") 🌲
+- 🎰 [Sprite Pachinko](https://github.com/Cey-S/SpritePachinko "SpritePachinko") 🎰
+- 🧱 [Breakout](https://github.com/Cey-S/Data-Persistence-Project "Data-Persistence-Project") 🧱
+- 🧮 [Counting Prototype](https://github.com/Cey-S/CountingPrototype "CountingPrototype") 🧮
+
+
+
 
 <!--
 **Cey-S/Cey-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
