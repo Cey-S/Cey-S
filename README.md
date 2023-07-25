@@ -28,15 +28,17 @@ I am a fresh graduate **Game Developer** with a Software Engineering degree.
 - 🌱 I try to further improve myself in Code Optimization with every project I take.
 - 💖 My current favorite: Observer Design Pattern. I'm into Events & Delegates lately. 
 - ✌️ I did Double Major and have a second degree in Management Engineering.
-- 📫 How to reach me: <a href="mailto:ceyda.sevilmis@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+- 📫 How to reach me 👉 <a href="mailto:ceyda.sevilmis@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white"></a>
 
 ### :rocket: Projects:
-You can find their gameplay videos and even play them through the links on their respective README pages.
-- 🌲 [Tree Picker](https://github.com/Cey-S/Programming-Theory-Repo "Programming-Theory-Repo") 🌲
+You can find their **gameplay videos** and even **play them** through the links on their respective README pages. 
+- 🌲 [Tree Picker](https://github.com/Cey-S/Programming-Theory-Repo "TreePicker") 🌲
 - 🎰 [Sprite Pachinko](https://github.com/Cey-S/SpritePachinko "SpritePachinko") 🎰
 - 🧱 [Breakout](https://github.com/Cey-S/Data-Persistence-Project "Data-Persistence-Project") 🧱
 - 🧮 [Counting Prototype](https://github.com/Cey-S/CountingPrototype "CountingPrototype") 🧮
-
+- 📦 [Clicky Crates](https://github.com/Cey-S/ClickyCrates "ClickyCrates") 📦
+- 🥋 [Sumo Battle](https://github.com/Cey-S/SumoBattle "SumoBattle") 🥋
+- 🏃‍♂️ [Run and Jump](https://github.com/Cey-S/RunAndJump "RunAndJump") 🏃‍♀️
 
 
 
