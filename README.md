@@ -3,10 +3,10 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/ceyda-sevilmis/">
+  <a href="https://www.linkedin.com/in/ceyda-sevilmis/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://learn.unity.com/u/602547a3edbc2a4e16680b52/?tab=profile">
+  <a href="https://learn.unity.com/u/602547a3edbc2a4e16680b52/?tab=profile" target="_blank">
     <img src="https://img.shields.io/badge/UnityLearn-black?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Learn Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=Cey-S&style=for-the-badge&color=blue" alt="Views Counter"/>
@@ -24,7 +24,7 @@
 ### 👩‍💻 About Me :
 I am a fresh graduate **Game Developer** with a Software Engineering degree.
 
-- 🔭 I’m currently working on getting my Unity Creative Core badge 👉 [![Unity Badge](https://img.shields.io/badge/CreativeCore-black?style=flat&logo=unity&logoColor=white)](https://learn.unity.com/pathway/creative-core)
+- 🔭 I’m currently working on getting my Unity Creative Core badge 👉 <a href="https://learn.unity.com/pathway/creative-core" target="_blank"><img src="https://img.shields.io/badge/CreativeCore-black?style=flat&logo=unity&logoColor=white" alt="Unity Learn Badge"/>
 - 🌱 I try to further improve myself in Code Optimization with every project I take.
 - 💖 My current favorite: Observer Design Pattern. I'm into Events & Delegates lately. 
 - ✌️ I did Double Major and have a second degree in Management Engineering.
@@ -32,7 +32,7 @@ I am a fresh graduate **Game Developer** with a Software Engineering degree.
 
 ### :rocket: Projects:
 You can find their **gameplay videos** and even **play them** through the links on their respective README pages. 
-- 🌲 [Tree Picker](https://github.com/Cey-S/Programming-Theory-Repo "TreePicker") 🌲
+- 🌲 [Tree Picker](https://github.com/Cey-S/TreePicker "TreePicker") 🌲
 - 🎰 [Sprite Pachinko](https://github.com/Cey-S/SpritePachinko "SpritePachinko") 🎰
 - 🧱 [Breakout](https://github.com/Cey-S/Data-Persistence-Project "Data-Persistence-Project") 🧱
 - 🧮 [Counting Prototype](https://github.com/Cey-S/CountingPrototype "CountingPrototype") 🧮
