@@ -32,13 +32,15 @@ I am a fresh graduate **Game Developer** with a Software Engineering degree.
 
 ### :rocket: Projects:
 You can find their **gameplay videos** and even **play them** through the links on their respective README pages. 
-- 🌲 [Tree Picker](https://github.com/Cey-S/TreePicker "TreePicker") 🌲
-- 🎰 [Sprite Pachinko](https://github.com/Cey-S/SpritePachinko "SpritePachinko") 🎰
-- 🧱 [Breakout](https://github.com/Cey-S/Data-Persistence-Project "Data-Persistence-Project") 🧱
-- 🧮 [Counting Prototype](https://github.com/Cey-S/CountingPrototype "CountingPrototype") 🧮
-- 📦 [Clicky Crates](https://github.com/Cey-S/ClickyCrates "ClickyCrates") 📦
-- 🥋 [Sumo Battle](https://github.com/Cey-S/SumoBattle "SumoBattle") 🥋
-- 🏃‍♂️ [Run and Jump](https://github.com/Cey-S/RunAndJump "RunAndJump") 🏃‍♀️
+- 🧩 [Match-3 Game](https://github.com/Cey-S/Match-3-Game "Match-3-Game Repo") 🧩
+- 🔳 [Geometry Dash](https://github.com/Cey-S/GeometryDash "GeometryDash Repo") 🔳
+- 🌲 [Tree Picker](https://github.com/Cey-S/TreePicker "TreePicker Repo") 🌲
+- 🎰 [Sprite Pachinko](https://github.com/Cey-S/SpritePachinko "SpritePachinko Repo") 🎰
+- 🧱 [Breakout](https://github.com/Cey-S/Data-Persistence-Project "Data-Persistence-Project Repo") 🧱
+- 🧮 [Counting Prototype](https://github.com/Cey-S/CountingPrototype "CountingPrototype Repo") 🧮
+- 📦 [Clicky Crates](https://github.com/Cey-S/ClickyCrates "ClickyCrates Repo") 📦
+- 🥋 [Sumo Battle](https://github.com/Cey-S/SumoBattle "SumoBattle Repo") 🥋
+- 🏃‍♂️ [Run and Jump](https://github.com/Cey-S/RunAndJump "RunAndJump Repo") 🏃‍♀️
 
 
 
