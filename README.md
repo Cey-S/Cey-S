@@ -30,7 +30,7 @@ I am a fresh graduate **Game Developer** with a Software Engineering degree.
 - ✌️ I did Double Major and have a second degree in Management Engineering.
 - 📫 How to reach me 👉 <a href="mailto:ceyda.sevilmis@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white"></a>
 
-### :rocket: Projects:
+### 🕹️ Unity Projects:
 You can find their **gameplay videos** and even **play them** through the links on their respective README pages. 
 - 🧩 [Match-3 Game](https://github.com/Cey-S/Match-3-Game "Match-3-Game Repo") 🧩
 - 🔳 [Geometry Dash](https://github.com/Cey-S/GeometryDash "GeometryDash Repo") 🔳
@@ -42,7 +42,13 @@ You can find their **gameplay videos** and even **play them** through the links 
 - 🥋 [Sumo Battle](https://github.com/Cey-S/SumoBattle "SumoBattle Repo") 🥋
 - 🏃‍♂️ [Run and Jump](https://github.com/Cey-S/RunAndJump "RunAndJump Repo") 🏃‍♀️
 
-
+### 🚀 Web Projects:
+These web projects are hosted by GitHub Pages. You can **visit the websites** through the links on their respective README pages.
+- 🏓 [Pong](https://github.com/Cey-S/Pong "Pong Repo") 🏓
+- [Product Landing Page](https://github.com/Cey-S/ProductLandingPage "ProductLandingPage Repo")
+- [Technical Documentation Page](https://github.com/Cey-S/TechnicalDocumentationPage "TechnicalDocumentationPage Repo")
+- [Tribute Page](https://github.com/Cey-S/TributePage "TributePage Repo")
+- [SurveyForm](https://github.com/Cey-S/SurveyForm "SurveyForm Repo")
 
 <!--
 **Cey-S/Cey-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
