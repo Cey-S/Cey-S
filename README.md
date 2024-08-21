@@ -22,13 +22,18 @@
 </div>
 
 ### 👩‍💻 About Me :
-I am a fresh graduate **Game Developer** with a Software Engineering degree.
+I am a new graduate **Software Engineer** with a passion for Game and Web Development.
 
-- 🔭 I’m currently working on getting my Unity Creative Core badge 👉 <a href="https://learn.unity.com/pathway/creative-core"><img src="https://img.shields.io/badge/CreativeCore-black?style=flat&logo=unity&logoColor=white" alt="Unity Learn Badge"/>
+- 🔭 I’m currently working on my **Full-Stack Developer** skills.
 - 🌱 I try to further improve myself in Code Optimization with every project I take.
 - 💖 My current favorite: Observer Design Pattern. I'm into Events & Delegates lately. 
 - ✌️ I did Double Major and have a second degree in Management Engineering.
 - 📫 How to reach me 👉 <a href="mailto:ceyda.sevilmis@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white"></a>
+
+### ✨ Latest:
+**My latest project is a 💬 [Social Media Website](https://github.com/Cey-S/SocialMediaWebsite "go to repository") 💬 called Topics.**
+You can find out about the technologies and concepts I used for this project on its README page.
+![Topics_WelcomePage](https://github.com/user-attachments/assets/69f4a694-6292-41d9-98af-353aee0d6adc)
 
 ### 🕹️ Unity Projects:
 You can find their **gameplay videos** and even **play them** through the links on their respective README pages. 
@@ -44,6 +49,7 @@ You can find their **gameplay videos** and even **play them** through the links 
 
 ### 🚀 Web Projects:
 These web projects are hosted by GitHub Pages. You can **visit the websites** through the links on their respective README pages.
+- 💬 [Social Media Website](https://github.com/Cey-S/SocialMediaWebsite "go to repository") 💬
 - 🏓 [Pong](https://github.com/Cey-S/Pong "Pong Repo") 🏓
 - [Product Landing Page](https://github.com/Cey-S/ProductLandingPage "ProductLandingPage Repo")
 - [Technical Documentation Page](https://github.com/Cey-S/TechnicalDocumentationPage "TechnicalDocumentationPage Repo")
